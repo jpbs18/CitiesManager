@@ -1,0 +1,12 @@
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\bin\Debug\net7.0\CitiesManager.Core.deps.json
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\bin\Debug\net7.0\CitiesManager.Core.dll
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\bin\Debug\net7.0\CitiesManager.Core.pdb
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.csproj.AssemblyReference.cache
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.AssemblyInfoInputs.cache
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.AssemblyInfo.cs
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.dll
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\refint\CitiesManager.Core.dll
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.pdb
+C:\Users\João\aspnetcore\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\ref\CitiesManager.Core.dll
